@@ -1,2 +1,3 @@
 # Mental-Love
-Preventing the mentally disabled from hurting themselves
+Preventing the mentally disabled from hurting themselves and more.
+
